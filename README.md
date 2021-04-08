@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **E-Commerce Application**
 
-- 🌱 I’m currently learning **MERN Development**
+- 🌱 I’m currently learning **ReactJS and MERN Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hemanthyadaav?tab=repositories](https://github.com/hemanthyadaav?tab=repositories)
 
