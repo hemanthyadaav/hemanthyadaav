@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hemanthyadaav?tab=repositories](https://github.com/hemanthyadaav?tab=repositories)
 
-- 📫 How to reach me **hemanthkumaryadav2001@gmail.com**
+- 📫 How to reach me **uhemanth2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
