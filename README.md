@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm U Hemantha Kumar</h1>
-<h3 align="center">A Passionate third year Engineering Undergraduate from Karnataka,India.</h3>
+<h3 align="center">A Passionate Engineering Undergraduate from Karnataka,India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthyadaav&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthyadaav" /> </p>
 
 <!-- - 🔭 I’m currently working on **E-Commerce Application** -->
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hemanthyadaav?tab=repositories](https://github.com/hemanthyadaav?tab=repositories)
 
