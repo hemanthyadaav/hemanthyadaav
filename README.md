@@ -5,7 +5,7 @@
 
 <!-- - 🔭 I’m currently working on **E-Commerce Application** -->
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Machine Learning!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hemanthyadaav?tab=repositories](https://github.com/hemanthyadaav?tab=repositories)
 
