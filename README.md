@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm U Hemantha Kumar</h1>
-<h3 align="center">A Passionate Engineering Undergraduate from Karnataka,India.</h3>
+<h3 align="center">A Passionate Engineering Graduate of 2022 Batch from UBDTCE, Karnataka,India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthyadaav&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthyadaav" /> </p>
 
 <!-- - 🔭 I’m currently working on **E-Commerce Application** -->
 
-- 🌱 I’m currently interning with **Rakuten India!**
+- 🌱 I’m currently working with **Kickdrum India** as **Software Developer!**<br>
+- 🌱 I had previously interned with **Rakuten India** as **Technical Intern!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hemanthyadaav?tab=repositories](https://github.com/hemanthyadaav?tab=repositories)
 
