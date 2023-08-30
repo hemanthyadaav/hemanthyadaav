@@ -5,7 +5,7 @@
 
 <!-- - 🔭 I’m currently working on **E-Commerce Application** -->
 
-- 🌱 I’m currently working with **Kickdrum India** as **Software Developer!**<br>
+- 🌱 I’m currently working with **Kickdrum India** as **Software Engineer!**<br>
 - 🌱 I had previously interned with **Rakuten India** as **Technical Intern!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hemanthyadaav?tab=repositories](https://github.com/hemanthyadaav?tab=repositories)
